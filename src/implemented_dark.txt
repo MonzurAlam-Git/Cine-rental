@@ -1,0 +1,4 @@
+* Implemented dark class for Movie add to cart button
+* For trending button
+* Check How they implemented every option 
+    * Handle Add to Cart [I have rewrite same code in 2 places]
